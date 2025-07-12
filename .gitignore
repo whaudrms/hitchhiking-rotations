@@ -2,7 +2,7 @@ output*
 data_main
 ModelNet40
 ModelNet40.zip
-*.npy
+#*.npy
 pcd_results*
 *.png
 *.pdf
