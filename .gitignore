@@ -1,11 +1,11 @@
-output*
-data_main
-ModelNet40
-ModelNet40.zip
+#output*
+#data_main
+#ModelNet40
+#ModelNet40.zip
 #*.npy
-pcd_results*
-*.png
-*.pdf
+#pcd_results*
+#*.png
+#*.pdf
 
 # Byte-compiled / optimized / DLL files
 __pycache__/
